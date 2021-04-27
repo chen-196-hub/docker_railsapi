@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[［メモ］Dockerの環境構築＋Rails APIモードのまとめ](https://qiita.com/KK_C/items/4cca96c9601fe597161c)
 
-Things you may want to cover:
+https://qiita.com/KK_C/items/4cca96c9601fe597161c
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
